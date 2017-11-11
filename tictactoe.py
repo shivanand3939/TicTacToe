@@ -1,5 +1,5 @@
+import random
 def my_valid_choice(total_lists):
-    import random
     valid_lists = []
     unpreferred_lists = []
     for each in total_lists:
